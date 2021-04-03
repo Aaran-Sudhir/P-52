@@ -1,0 +1,98 @@
+h1{
+    color:rgb(3, 112, 107);
+    font-family : fantasy;
+    margin : 40px;
+    font-size : 70px;
+}
+
+
+
+.grid1{
+
+    display:flex;
+border:2px solid rgb(122, 95, 6);
+border-radius : 35px;
+background-color :rgb(237, 238, 194);
+}
+
+.grid2{
+
+    display:flex;
+border:2px solid black;
+border-radius : 35px;
+background-color :rgb(195, 200, 223);
+}
+
+.grid3{
+
+    display:flex;
+border:2px solid rgb(37, 117, 5);
+border-radius : 35px;
+background-color :rgb(198, 238, 194);
+}
+
+.monkey{
+    color:rgba(95, 54, 7, 0.568);
+    font-family : fantasy;
+    margin : 50px;
+    font-size : 25px;
+}
+
+.penguin{
+    color:rgb(14, 11, 8);
+    font-family : fantasy;
+    margin : 50px;
+    font-size : 25px;
+}
+
+.cham{
+    color:rgba(42, 95, 7, 0.568);
+    font-family : fantasy;
+    margin : 50px;
+    font-size : 25px;
+}
+
+.Social-links{
+
+border:2px solid black;
+border-radius : 35px;
+background-color : "white";
+
+display : flex; 
+    flex-wrap : wrap;
+    justify-content: space-around;
+    margin : 300px;
+    
+
+
+}
+
+a:link{
+    color : rgb(255, 0, 0);
+}
+
+a:visited{
+    color : rgb(36, 196, 36)
+}
+
+.origami{
+    position:relative;
+}
+
+
+.cham:hover img{
+    opacity:0.3;
+}
+
+.penguin:hover img{
+    opacity:0.3;
+}
+
+.monkey:hover img{
+    opacity:0.3;
+}
+
+
+
+
+
